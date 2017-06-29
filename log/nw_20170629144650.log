@@ -1,0 +1,408 @@
+Thu, 29 Jun 2017 14:46:50 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/iv_close...
+Thu, 29 Jun 2017 14:46:50 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_close"}
+Thu, 29 Jun 2017 14:46:50 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:50 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/2/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "2"}
+Thu, 29 Jun 2017 14:46:50 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:50 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_close"}
+Thu, 29 Jun 2017 14:46:50 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:50 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/3/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "3"}
+Thu, 29 Jun 2017 14:46:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:55 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/niiwogonggao...
+Thu, 29 Jun 2017 14:46:55 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/niiwogonggao"}
+Thu, 29 Jun 2017 14:46:55 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:55 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/4/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "4"}
+Thu, 29 Jun 2017 14:46:55 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:55 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/niiwogonggao"}
+Thu, 29 Jun 2017 14:46:55 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:55 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/5/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "5"}
+Thu, 29 Jun 2017 14:46:56 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/6/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "6"}
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/7/text {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "7"}
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:46:58 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/screenshot {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:03 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:03 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:03 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:03 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:04 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/ivIndexLend...
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivIndexLend"}
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/8/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "8"}
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivIndexLend"}
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/9/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "9"}
+Thu, 29 Jun 2017 14:47:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:06 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/current_activity {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:06 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:06 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:06 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:06 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:07 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/ivIndexGuarantee...
+Thu, 29 Jun 2017 14:47:07 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivIndexGuarantee"}
+Thu, 29 Jun 2017 14:47:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:07 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/10/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "10"}
+Thu, 29 Jun 2017 14:47:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:07 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivIndexGuarantee"}
+Thu, 29 Jun 2017 14:47:08 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:08 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/11/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "11"}
+Thu, 29 Jun 2017 14:47:08 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:10 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/touch/perform {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "actions": [{"action": "tap", "options": {"y": 150, "x": 720, "count": 1}}]}
+Thu, 29 Jun 2017 14:47:10 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:10 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:10 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:10 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/12/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "12"}
+Thu, 29 Jun 2017 14:47:11 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:11 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:11 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:11 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/13/text {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "13"}
+Thu, 29 Jun 2017 14:47:11 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:11 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/screenshot {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:15 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:15 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:15 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:15 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:16 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/ivIndexGuideLine...
+Thu, 29 Jun 2017 14:47:16 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivIndexGuideLine"}
+Thu, 29 Jun 2017 14:47:16 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:16 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/14/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "14"}
+Thu, 29 Jun 2017 14:47:16 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:16 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivIndexGuideLine"}
+Thu, 29 Jun 2017 14:47:16 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:16 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/15/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "15"}
+Thu, 29 Jun 2017 14:47:17 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/16/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "16"}
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/17/text {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "17"}
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:19 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/screenshot {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:23 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:23 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:23 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:23 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:24 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/ivInvest...
+Thu, 29 Jun 2017 14:47:24 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivInvest"}
+Thu, 29 Jun 2017 14:47:24 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:24 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/18/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "18"}
+Thu, 29 Jun 2017 14:47:24 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:24 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/ivInvest"}
+Thu, 29 Jun 2017 14:47:24 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:24 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/19/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "19"}
+Thu, 29 Jun 2017 14:47:25 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:27 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/touch/perform {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "actions": [{"action": "tap", "options": {"y": 150, "x": 720, "count": 1}}]}
+Thu, 29 Jun 2017 14:47:27 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:27 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:27 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:27 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/20/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "20"}
+Thu, 29 Jun 2017 14:47:28 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:28 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:28 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:28 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/21/text {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "21"}
+Thu, 29 Jun 2017 14:47:28 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:28 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/screenshot {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:33 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:33 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:33 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:33 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:34 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/iv_guarantee...
+Thu, 29 Jun 2017 14:47:34 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_guarantee"}
+Thu, 29 Jun 2017 14:47:35 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:35 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/22/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "22"}
+Thu, 29 Jun 2017 14:47:35 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:35 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_guarantee"}
+Thu, 29 Jun 2017 14:47:35 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:35 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/23/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "23"}
+Thu, 29 Jun 2017 14:47:35 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:37 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/current_activity {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:37 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:37 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:37 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:38 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:39 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/iv_learn...
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_learn"}
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/24/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "24"}
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_learn"}
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/25/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "25"}
+Thu, 29 Jun 2017 14:47:39 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:41 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:42 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:42 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:42 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:43 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:43 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/26/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "26"}
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/27/text {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "27"}
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:44 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/screenshot {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:49 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:49 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:49 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:49 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:50 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/iv_experience...
+Thu, 29 Jun 2017 14:47:50 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_experience"}
+Thu, 29 Jun 2017 14:47:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:51 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/28/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "28"}
+Thu, 29 Jun 2017 14:47:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:51 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_experience"}
+Thu, 29 Jun 2017 14:47:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:51 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/29/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "29"}
+Thu, 29 Jun 2017 14:47:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/30/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "30"}
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/31/text {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "31"}
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:53 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/screenshot {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:47:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:58 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:47:58 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:47:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:59 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/iv_gift...
+Thu, 29 Jun 2017 14:47:59 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_gift"}
+Thu, 29 Jun 2017 14:47:59 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:59 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/32/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "32"}
+Thu, 29 Jun 2017 14:47:59 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:59 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/iv_gift"}
+Thu, 29 Jun 2017 14:47:59 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:47:59 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/33/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "33"}
+Thu, 29 Jun 2017 14:48:00 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:02 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/current_activity {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:48:02 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:02 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:48:02 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:48:02 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:03 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/window/current/size {"windowHandle": "current", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:48:03 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:03 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/window/current/size {"windowHandle": "current", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:48:03 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:03 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/touch/perform {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "actions": [{"action": "press", "options": {"y": 1920, "x": 720}}, {"action": "wait", "options": {"ms": 0}}, {"action": "moveTo", "options": {"y": 640, "x": 720}}, {"action": "release", "options": {}}]}
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:04 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/tv_partner...
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/tv_partner"}
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/34/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "34"}
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/tv_partner"}
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:04 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/35/click {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "35"}
+Thu, 29 Jun 2017 14:48:05 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/36/displayed {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "36"}
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element {"using": "id", "sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/element/37/text {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "id": "37"}
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:07 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/screenshot {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:48:12 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:12 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:48:12 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa/appium/device/keyevent {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa", "keycode": 4}
+Thu, 29 Jun 2017 14:48:12 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:13 remote_connection.py [line:422] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/92b617dd-6846-43aa-a15b-a669997085aa {"sessionId": "92b617dd-6846-43aa-a15b-a669997085aa"}
+Thu, 29 Jun 2017 14:48:16 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:16 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"deviceName": "HT4AYJT02791", "unicodeKeyboard": "True", "resetKeyboard": "True", "platformVersion": "6.0", "appPackage": "com.junte.onlinefinance", "platformName": "Android", "appActivity": ".ui.activity.MainActivity"}}
+Thu, 29 Jun 2017 14:48:34 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/iv_close"}
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/1/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "1"}
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:44 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/iv_close...
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/iv_close"}
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/2/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "2"}
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/iv_close"}
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:44 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/3/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "3"}
+Thu, 29 Jun 2017 14:48:46 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:48 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/ivIndexLend...
+Thu, 29 Jun 2017 14:48:48 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/ivIndexLend"}
+Thu, 29 Jun 2017 14:48:48 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:48 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/4/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "4"}
+Thu, 29 Jun 2017 14:48:48 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:48 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/ivIndexLend"}
+Thu, 29 Jun 2017 14:48:49 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:49 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/5/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "5"}
+Thu, 29 Jun 2017 14:48:49 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:51 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLogin...
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/6/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "6"}
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/7/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "7"}
+Thu, 29 Jun 2017 14:48:51 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:53 BasePage.py [line:185] DEBUG Clear input-box: com.junte.onlinefinance:id/edtRegisterPhone...
+Thu, 29 Jun 2017 14:48:53 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:48:54 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:54 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:48:54 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:48:54 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/10/clear {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "10"}
+Thu, 29 Jun 2017 14:48:59 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:00 BasePage.py [line:185] DEBUG Input: 18100000000
+Thu, 29 Jun 2017 14:49:00 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:49:00 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:00 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:49:00 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:00 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/14/value {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "14", "value": ["1", "8", "1", "0", "0", "0", "0", "0", "0", "0", "0"]}
+Thu, 29 Jun 2017 14:49:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:09 BasePage.py [line:185] DEBUG Clear input-box: com.junte.onlinefinance:id/edtRegisterPhone...
+Thu, 29 Jun 2017 14:49:09 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:49:09 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:09 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:49:09 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:09 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/19/clear {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "19"}
+Thu, 29 Jun 2017 14:49:20 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:21 BasePage.py [line:185] DEBUG Input: test123
+Thu, 29 Jun 2017 14:49:21 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:49:21 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:21 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/elements {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/edtRegisterPhone"}
+Thu, 29 Jun 2017 14:49:21 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:21 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/23/value {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "23", "value": ["t", "e", "s", "t", "1", "2", "3"]}
+Thu, 29 Jun 2017 14:49:27 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:29 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLoginGo...
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginGo"}
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/24/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "24"}
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginGo"}
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/25/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "25"}
+Thu, 29 Jun 2017 14:49:29 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/contentTv"}
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/26/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "26"}
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/contentTv"}
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/27/text {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "27"}
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:31 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/screenshot {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05"}
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:36 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/cancelBtn...
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/cancelBtn"}
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/28/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "28"}
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/cancelBtn"}
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:36 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/29/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "29"}
+Thu, 29 Jun 2017 14:49:39 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:41 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:49:41 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/appium/device/keyevent {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "keycode": 4}
+Thu, 29 Jun 2017 14:49:41 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:42 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLogin...
+Thu, 29 Jun 2017 14:49:42 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:49:42 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:42 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/30/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "30"}
+Thu, 29 Jun 2017 14:49:42 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:42 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:49:42 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:42 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/31/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "31"}
+Thu, 29 Jun 2017 14:49:43 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:45 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLoginGo...
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginGo"}
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/32/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "32"}
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginGo"}
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/33/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "33"}
+Thu, 29 Jun 2017 14:49:45 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:47 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/screenshot {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05"}
+Thu, 29 Jun 2017 14:49:52 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:52 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:49:52 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/appium/device/keyevent {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "keycode": 4}
+Thu, 29 Jun 2017 14:49:52 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:53 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLogin...
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/34/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "34"}
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/35/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "35"}
+Thu, 29 Jun 2017 14:49:53 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:55 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLoginRegister...
+Thu, 29 Jun 2017 14:49:55 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginRegister"}
+Thu, 29 Jun 2017 14:49:56 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:56 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/36/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "36"}
+Thu, 29 Jun 2017 14:49:56 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:56 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginRegister"}
+Thu, 29 Jun 2017 14:49:56 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:56 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/37/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "37"}
+Thu, 29 Jun 2017 14:49:56 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/38/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "38"}
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/39/text {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "39"}
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:49:58 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/screenshot {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05"}
+Thu, 29 Jun 2017 14:50:03 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:03 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:50:03 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/appium/device/keyevent {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "keycode": 4}
+Thu, 29 Jun 2017 14:50:03 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:04 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:50:04 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/appium/device/keyevent {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "keycode": 4}
+Thu, 29 Jun 2017 14:50:04 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:05 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLogin...
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/40/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "40"}
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLogin"}
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/41/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "41"}
+Thu, 29 Jun 2017 14:50:05 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:07 BasePage.py [line:185] DEBUG Click element by id: com.junte.onlinefinance:id/btnLoginForgetPassword...
+Thu, 29 Jun 2017 14:50:07 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginForgetPassword"}
+Thu, 29 Jun 2017 14:50:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:07 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/42/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "42"}
+Thu, 29 Jun 2017 14:50:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:07 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/btnLoginForgetPassword"}
+Thu, 29 Jun 2017 14:50:07 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:07 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/43/click {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "43"}
+Thu, 29 Jun 2017 14:50:08 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/44/displayed {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "44"}
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element {"using": "id", "sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "value": "com.junte.onlinefinance:id/txtTitle"}
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/element/45/text {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "id": "45"}
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:10 remote_connection.py [line:422] DEBUG GET http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/screenshot {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05"}
+Thu, 29 Jun 2017 14:50:15 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:15 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:50:15 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/appium/device/keyevent {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "keycode": 4}
+Thu, 29 Jun 2017 14:50:15 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:16 BasePage.py [line:188] INFO Click device back key...
+Thu, 29 Jun 2017 14:50:16 remote_connection.py [line:422] DEBUG POST http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05/appium/device/keyevent {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05", "keycode": 4}
+Thu, 29 Jun 2017 14:50:16 remote_connection.py [line:517] DEBUG Finished Request
+Thu, 29 Jun 2017 14:50:17 remote_connection.py [line:422] DEBUG DELETE http://127.0.0.1:4723/wd/hub/session/9334b6be-ca63-4c7e-af73-e649aa36af05 {"sessionId": "9334b6be-ca63-4c7e-af73-e649aa36af05"}
+Thu, 29 Jun 2017 14:50:20 remote_connection.py [line:517] DEBUG Finished Request
